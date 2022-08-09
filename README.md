@@ -1,2 +1,2 @@
-# Jennies-pub
+# jennies-pub
 Jennie's Public Repo for CIT 93
